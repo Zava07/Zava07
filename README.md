@@ -116,3 +116,26 @@
 
 ---
 
+<div align="center">
+
+## 🎮 Happy Coding!
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+### 🕹️ Code. Create. Innovate. Repeat. 🚀
+
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Pac-Man"/>
+</p>
+
+<p align="center">
+  <i>"Le meilleur moment pour planter un arbre était il y a 20 ans. Le deuxième meilleur moment est maintenant."</i> 🌱
+</p>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Fait avec ❤️ par <a href="https://github.com/Zava07">Zava07</a></sub>
+</div>
