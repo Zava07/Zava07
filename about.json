@@ -1,25 +1,19 @@
 {
   "name": "Zava07",
-  "title": "Développeur & créateur d'expériences",
-  "location": "France",
-  "bio": "Salut ! Je suis Zava07, développeur full-stack passionné par le design d'interfaces, les animations web et les expériences utilisateur. J'aime travailler avec React, TypeScript, Three.js et Tailwind pour créer des interfaces fluides et visuellement attrayantes.",
-  "skills": [
-    "React",
-    "TypeScript",
-    "Node.js",
-    "Three.js",
-    "Tailwind CSS",
-    "Docker",
-    "PostgreSQL"
-  ],
-  "badges": [
-    "https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black",
-    "https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white",
-    "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
-  ],
+  "pronouns": "",
+  "location": "Madagascar, MG",
+  "education": "ITU - Computer Science",
+  "currentFocus": "Full-Stack Web Development",
+  "hobbies": ["Coding 💻", "Learning 📚", "Design 🎨"],
+  "funFact": "I turn coffee ☕ into code!",
+  "skills": ["Java", "PHP", "Vue.js", "Node.js", "HTML5", "Python", "Docker", "PostgreSQL","C++","C","C#"],
   "contact": {
-    "email": "ton.email@example.com",
-    "website": "https://Zava07.github.io/Zava07",
-    "github": "https://github.com/Zava07"
+    "email": "your.email@example.com",
+  "website": "https://your-portfolio.example"
+  },
+  "links": {
+    "github": "https://github.com/Zava07",
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "twitter": "https://twitter.com/yourprofile"
   }
 }

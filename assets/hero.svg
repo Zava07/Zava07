@@ -1,75 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Animated hero SVG — utilisé dans le README -->
-<svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hero Zava07">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
   <defs>
-    <linearGradient id="g1" x1="0" x2="1">
-      <stop offset="0" stop-color="#7c3aed"/>
-      <stop offset="1" stop-color="#06b6d4"/>
-    </linearGradient>
-    <filter id="fGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="8" result="b"/>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
       <feMerge>
-        <feMergeNode in="b"/>
+        <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <style><![CDATA[
-      .ring{fill:none;stroke:url(#g1);stroke-width:3;stroke-linecap:round;opacity:0.9;filter:url(#fGlow)}
-      .small{fill:url(#g1)}
-      .title{font:700 36px 'Segoe UI', Roboto, Arial; fill: #eaf6ff}
-      .sub{font:500 14px 'Segoe UI', Roboto, Arial; fill:#cfe7ffcc}
-      @keyframes spin {
-        from { transform: rotate(0deg); }
-        to { transform: rotate(360deg); }
-      }
-      .rot {
-        transform-origin: 450px 115px;
-        animation: spin 18s linear infinite;
-      }
-      .pulse { animation: pulse 2.6s ease-out infinite; transform-origin:450px 115px; }
-      @keyframes pulse {
-        0% { transform: scale(1); opacity:0.9 }
-        60% { transform: scale(1.08); opacity:0.45 }
-        100% { transform: scale(1); opacity:0.9 }
-      }
-    ]]></style>
   </defs>
-
-  <!-- background subtle -->
-  <rect width="100%" height="100%" fill="transparent"/>
-
-  <!-- animated rings -->
-  <g class="rot" transform="translate(0,0)">
-    <circle class="ring" cx="450" cy="115" r="80" stroke-width="3" stroke-dasharray="6 8"/>
-    <circle class="ring" cx="450" cy="115" r="110" stroke-width="2" stroke-dasharray="20 12" opacity="0.45"/>
-    <circle class="ring" cx="450" cy="115" r="140" stroke-width="1.6" stroke-dasharray="2 10" opacity="0.25"/>
-  </g>
-
-  <!-- central orb -->
-  <g class="pulse" transform="translate(0,0)">
-    <circle cx="450" cy="115" r="26" class="small" />
-  </g>
-
-  <!-- Title text -->
-  <text x="60" y="90" class="title">Zava07</text>
-  <text x="60" y="115" class="sub">Développeur · Animations · Interfaces</text>
-
-  <!-- decorative code-like lines -->
-  <g opacity="0.85">
-    <rect x="60" y="140" width="170" height="6" rx="3" fill="#ffffff22"/>
-    <rect x="60" y="156" width="120" height="6" rx="3" fill="#ffffff14"/>
-    <rect x="60" y="172" width="210" height="6" rx="3" fill="#ffffff0f"/>
-  </g>
-
-  <!-- small moving dots -->
-  <g>
-    <circle cx="780" cy="50" r="4" fill="#06b6d4">
-      <animate attributeName="cy" dur="3.4s" values="40;20;55;40" repeatCount="indefinite" />
-      <animate attributeName="cx" dur="4.1s" values="760;780;800;780" repeatCount="indefinite" />
-    </circle>
-    <circle cx="820" cy="170" r="3" fill="#7c3aed">
-      <animate attributeName="cy" dur="4.2s" values="160;200;170;160" repeatCount="indefinite" />
-      <animate attributeName="cx" dur="3.8s" values="805;820;835;820" repeatCount="indefinite" />
-    </circle>
+  <rect x="0" y="0" width="900" height="220" rx="14" fill="#0f1720" stroke="#2a2f3a"/>
+  <g transform="translate(24,28)">
+    <rect width="820" height="160" rx="10" fill="#111318" stroke="#3a3a4a"/>
+    <text x="24" y="54" font-family="Segoe UI, Roboto, sans-serif" font-size="28" fill="#9cc4ff" filter="url(#glow)">Hey there! 👋</text>
+    <text x="24" y="92" font-family="Segoe UI, Roboto, sans-serif" font-size="16" fill="#cbd5e1">Welcome to my GitHub , Let's code together</text>
+    <circle cx="780" cy="36" r="8" fill="#2ee6a7"/>
+    <text x="792" y="41" font-family="Segoe UI, Roboto, sans-serif" font-size="12" fill="#9cc4ff">Online</text>
   </g>
 </svg>

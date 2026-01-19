@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#8e44ad"/>
+      <stop offset="50%" stop-color="#6f86d6"/>
+      <stop offset="100%" stop-color="#16a085"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" fill="url(#g)" rx="8"/>
+  <g>
+    <text x="50%" y="55%" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" fill="#fff" font-weight="700">Zava07</text>
+  </g>
+</svg>
