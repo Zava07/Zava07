@@ -39,26 +39,16 @@ Bienvenue sur mon profil GitHub ! Ici tu trouveras mes projets, technologies et 
 }
 ```
 
-- 🔭 Je travaille actuellement sur des projets full‑stack.
-- 🌱 J’apprends constamment de nouvelles technologies (Vue, Docker, etc.).
-- 💬 N’hésite pas à me poser des questions sur le développement web.
-- 📫 Contacte‑moi via mon portfolio ou LinkedIn (ci‑dessous).
-
-> Toutes ces informations sont aussi stockées dans `about.json` (racine du repo) pour faciliter les mises à jour.
-
-    </td>
-    <td align="right">
-      <img src="assets/illustration.svg" alt="Illustration" width="320"/>
-    </td>
-  </tr>
-</table>
+- 🔭 Je travaille actuellement sur des projets full‑stack
+- 🌱 J'apprends constamment de nouvelles technologies (Vue, Docker, etc.)
+- 💬 N'hésite pas à me poser des questions sur le développement web
+- 📫 Contacte‑moi via les liens ci-dessous
 
 ### 🔗 Liens rapides
 
-
-- LinkedIn : [linkedin.com/in/Zava Anjaranantenain](https://www.linkedin.com/in/zava-anjaranantenaina-b64a04329/)
-- Twitter : [twitter.com/Joary Zava](https://x.com/JoaryZava12652)
-- GitHub : [github.com/Zava07](https://github.com/Zava07)
+- 🔗 LinkedIn : [Zava Anjaranantenain](https://www.linkedin.com/in/zava-anjaranantenaina-b64a04329/)
+- 🐦 Twitter : [Joary Zava](https://x.com/JoaryZava12652)
+- 💻 GitHub : [Zava07](https://github.com/Zava07)
 
 ---
 
