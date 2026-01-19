@@ -55,9 +55,9 @@ Bienvenue sur mon profil GitHub ! Ici tu trouveras mes projets, technologies et 
 
 ### 🔗 Liens rapides
 
-- Portfolio : [your-portfolio.example](https://your-portfolio.example)
-- LinkedIn : [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Twitter : [twitter.com/yourprofile](https://twitter.com/yourprofile)
+
+- LinkedIn : [linkedin.com/in/Zava Anjaranantenain](https://www.linkedin.com/in/zava-anjaranantenaina-b64a04329/)
+- Twitter : [twitter.com/Joary Zava](https://x.com/JoaryZava12652)
 - GitHub : [github.com/Zava07](https://github.com/Zava07)
 
 ---
