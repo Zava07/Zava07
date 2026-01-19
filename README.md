@@ -62,18 +62,31 @@ Bienvenue sur mon profil GitHub ! Ici tu trouveras mes projets, technologies et 
 
 ---
 
-## 🛠 Technologies
+## 🛠 Technologies & Outils
 
+<div align="center">
+
+### 💻 Langages de programmation
 <p>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" alt="Java"/>
-  <img src="https://img.shields.io/badge/PHP-7f8ff0?style=for-the-badge&logo=php" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs" alt="Vue"/>
-  <img src="https://img.shields.io/badge/Node.js-3b873a?style=for-the-badge&logo=nodedotjs" alt="Node"/>
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker" alt="Docker"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" alt="Postgres"/>
+  <img src="https://skillicons.dev/icons?i=java,php,python,html,css,js" alt="Languages" />
 </p>
+
+### 🎨 Frameworks & Bibliothèques
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,laravel,django,react,vue" alt="Frameworks" />
+</p>
+
+### 🗄️ Bases de données
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,postgresql,mongodb" alt="Databases" />
+</p>
+
+### 🔧 Outils & Autres
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,npm" alt="Tools" />
+</p>
+
+</div>
 
 ---
 
