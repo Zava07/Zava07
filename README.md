@@ -57,15 +57,16 @@
   "name": "Zava Anjaranantenaina",
   "location": "Madagascar, MG",
   "education": "ITU - Computer Science",
-  "email" : "ajoary1@gmail.com"
-  "currentFocus": "Full-Stack Web Development",
-  "hobbies": ["Coding 💻", "Learning 📚", "Design 🎨"],
+  "email": "ajoary1@gmail.com",
+  "currentFocus": ["Full-Stack Web Development", "Network & Systems"],
+  "hobbies": ["Coding 💻", "Learning 📚", "Design 🎨", "Networking 🌐"],
   "funFact": "I turn coffee ☕ into code!"
 }
 ```
 
 - 🔭 Je travaille actuellement sur des projets full‑stack
-- 🌱 J'apprends constamment de nouvelles technologies (Vue, Docker, etc.)
+- � J'étudie les réseaux informatiques et l'administration système
+- �🌱 J'apprends constamment de nouvelles technologies (Vue, Docker, etc.)
 - 💬 N'hésite pas à me poser des questions sur le développement web
 - 📫 Contacte‑moi via les liens ci-dessous
 
@@ -102,7 +103,10 @@
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,oracle,postgresql,mongodb" alt="Databases" />
 </p>
-
+### 🌐 Réseaux & Systèmes
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,powershell,nginx" alt="Network & Systems" />
+</p>
 ### 🔧 Outils & Autres
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,npm" alt="Tools" />
