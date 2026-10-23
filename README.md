@@ -79,7 +79,7 @@
 
 ### 🔗 Liens rapides
 
-- 🔗 LinkedIn : [Zava Anjaranantenain](https://www.linkedin.com/in/zava-anjaranantenaina-b64a04329/)
+- 🔗 LinkedIn : [Zava Anjaranantenaina](https://www.linkedin.com/in/zava-anjaranantenaina-b64a04329/)
 - 🐦 Twitter : [Joary Zava](https://x.com/JoaryZava12652)
 - 💻 GitHub : [Zava07](https://github.com/Zava07)
 
