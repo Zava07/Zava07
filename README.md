@@ -82,6 +82,7 @@
 - 🔗 LinkedIn : [Zava Anjaranantenaina](https://www.linkedin.com/in/zava-anjaranantenaina-b64a04329/)
 - 🐦 Twitter : [Joary Zava](https://x.com/JoaryZava12652)
 - 💻 GitHub : [Zava07](https://github.com/Zava07)
+- Portfolio : [Zava Anjaranantenaina](https://zava-anjaranantenaina.vercel.app)
 
 ---
 
